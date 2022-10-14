@@ -17,7 +17,7 @@ playYourGameButton.addEventListener('click', function(){
     console.log(dadoHuman, dadoBrowser, 'even');
   }
 
-  //solo logica
+  //solo logica, successivamente scriverò in html
      
   
 });
